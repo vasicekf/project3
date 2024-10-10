@@ -35,6 +35,7 @@ python python_projekt_3.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xk
 Průběh stahování:
 
 python python_projekt_3.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=13&xnumnuts=7202" "vysledky_uherske_hradiste.csv"
+
 Volební data byla úspěšně uložena do vysledky_uherske_hradiste.csv
 
 Částečný výstup:
